@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SupportDemo</string>
+    <string name="title_activity_programmatically">ProgrammaticallyActivity</string>
+</resources>

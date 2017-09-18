@@ -1,0 +1,13 @@
+<resources>
+
+    <string-array name="appisArray">
+        <item>DownloadableFonts</item>
+        <item>Font in XML</item>
+    </string-array>
+
+    <string-array name="downloadFontArray">
+        <item>GooglePlay</item>
+        <item>编程方式</item>
+        <item>支持库</item>
+    </string-array>
+</resources>
